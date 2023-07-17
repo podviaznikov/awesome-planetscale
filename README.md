@@ -8,7 +8,7 @@ A curated list of PlanetScale resources, tools, utilities and applications.
 - [Blog Posts](#blog-posts)
 - [Applications](#applications)
 
-## Documentations
+## Documentation
 
 - [Use Prisma with PlanetScale](https://www.prisma.io/docs/guides/database/planetscale)
 - [Use Drizzle with PlanetScale](https://orm.drizzle.team/docs/installation-and-db-connection/mysql/planetscale)
